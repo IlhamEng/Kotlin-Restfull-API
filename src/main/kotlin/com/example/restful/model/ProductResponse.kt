@@ -1,7 +1,6 @@
 package com.example.restful.model
 
-import jakarta.persistence.Column
-import jakarta.persistence.Id
+
 import java.util.*
 
 data class ProductResponse(
